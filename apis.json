@@ -1,0 +1,44 @@
+{
+    "name": "World Triathlon",
+    "description": "The official triathlon resource. Triathlon event information, news, results, rankings, rules, education, and more from the International Triathlon Union.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28185-developers-triathlon-org.jpg",
+    "tags": [
+        "have api",
+        "triathalons"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/world-triathlon\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "World Triathlon",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28185-developers-triathlon-org.jpg",
+            "humanURL": "https:\/\/developers.triathlon.org",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/world-triathlon-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Developers",
+            "url": "https:\/\/developers.triathlon.org\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/worldtriathlon"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/developers.triathlon.org"
+        }
+    ]
+}
